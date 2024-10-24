@@ -1,4 +1,4 @@
 # Weather-Monitor-system
-My first project
-**Summary of the Project**
+My first project<br>
+#**Summary of the Project**<br>
 This project helps create a weather monitoring system using the Blynk app. This project is mainly based on three sensors. That is the rain sensor, DHT11 sensor and LDR sensor. Through this, we can see factors such as rainfall, temperature, humidity, and amount of light. Also, the speciality is that we can monitor all this over the internet. Since this is accessible over the internet it can be monitored anywhere at any time. The technology behind this is the Internet of Things (IoT), which is an advanced and efficient solution for connecting things to the internet and connecting the entire world of things in a network. Here things might be whatever like electronic gadgets, sensors, and automotive electronic equipment. The data updated from the implemented system can be accessible in the internet from anywhere in the world. Also, we can do this project at a low cost and use it for farms and greenhouses.
